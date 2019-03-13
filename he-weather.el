@@ -87,7 +87,6 @@
 
   (let* ((he_query (format "location=%s&key=%s&lang=en" location key))
          (url (format "https://free-api.heweather.net/s6/weather?%s" he_query)))
-    (message "+++ url: %s" url)
     url))
 
 (defun he-weather--extract-first-object (json-object)
