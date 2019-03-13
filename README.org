@@ -1,0 +1,4 @@
+* README
+
+ + base on yahoo-weather-mode: https://github.com/lujun9972/yahoo-weather-mode
+ + change yahoo-weather to he weather. more info: https://www.heweather.com/documents/api/s6/weather-all
